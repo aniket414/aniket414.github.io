@@ -145,7 +145,7 @@ content:
 
           I also had an wonderful experience working as a *Campus Ambassador* for the initiative *Transform Maharashtra*. Promoted the event and encouraged students to participate in sharing their ideas on how to tackle major problems being faced by the State Government of Maharashtra. Alongside promotion, I also managed the end to end interaction of participants with the organizers effectively resolving their queries.
 
-  - title: Prints # Title for the section
+  - title: Papers # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: right
