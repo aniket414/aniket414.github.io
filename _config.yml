@@ -1,0 +1,137 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Aniket Pandey
+title: Software Developer
+email: aniket414@gmail.com
+website: www.github.com/aniket414
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username: Aniket414
+github_username:  aniket414
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+linkedin_username: aniket414
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+# additional_links:
+# - title: test
+#   icon: fas fa-globe
+#   url: https://test.test
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Aniket and I'm a graduate student. I also have experience solving real world problems by making softwares.
+
+  I am most skilled in: <mark>Software Development</mark> and <mark>Watching Movies</mark>
+
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Solar Power Predictor
+        link: github.com/aniket414
+        # link_text: Project Website
+        additional_links:
+          - title:  aniket414/SolarPowerPredictor
+            icon: fab fa-github
+            url: github.com/aniket414/SolarPowerPredictor
+          # - title:  Github page for project (eg. aniket414/SolarPowerPredictor)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. aniket414.github.io)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a final year undergrad project to learn <mark>Machine Learning</mark>. It is trained using <mark>LSTM</mark> <mark>RNN</mark> algorithm to predict the solar power generation.
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: J P Morgan Chase & Co
+        link: https://www.jpmorganchase.com
+        # link_text: boringcompany.com
+        sub_title: Software Engineer
+        caption: July 2019 - August 2021
+        quote: >
+          Solving 21st century problems Test *Test*
+        description: | # this will include new lines to allow paragraphs
+            Every company needs its softwares properly crafted and J P Morgan Chase & Co is no exception. Developing softwares is hard and I play my part making sure the whole world banks easily.
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: George Mason University
+        caption: 2021 - 2023
+        sub_title: MS Computer Science
+        quote: >
+          Established in 1957, George Mason University is a public research university. It is popularly known as the 'Oxford of the East', and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          During my time at Test.
+
+          Test.
+      - layout: left
+        title: Savitribai Phule Pune University
+        caption: 2015 - 2019
+        sub_title: BE Computer Engineering
+        quote: >
+          Established in 1949, Pune University houses 46 academic departments. It is popularly known as the 'Oxford of the East', and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the India but also the world.
+        description: | # this will include new lines to allow paragraphs
+          During my time at Test.
+
+          Test *Test Club* taking on roles such as *Test Secretary* and *Test*.
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Watching movies
+      - Solving puzzles
+      - Astrophysics
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+      Look at this cool image  
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
