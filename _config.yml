@@ -148,10 +148,10 @@ content:
   - title: Papers # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: right
+      - layout: top-middle
         title: Solar Power Prediction using Recurrent Neural Network
         link: https://www.ijraset.com/fileserve.php?FID=23360
-        link_text: IJRASET23360
+        link_text: <ins>IJRASET23360</ins>
         # additional_links:
         #   - title:  aniket414/SolarPowerPredictor
         #     icon: fab fa-github
@@ -163,10 +163,10 @@ content:
           S. Rathod, A. Pandey, M. Pandey, D. Jha, H. Singh
         # description: | # this will include new lines to allow paragraphs
         #   Test.
-      - layout: left
+      - layout: top-middle
         title: Power Forecast of Solar Panels Using Machine Learning Techniques - A Survey
         link: http://ijsart.com/Home/IssueDetail?id=27796
-        link_text: IJSARTV4I1027796
+        link_text: <ins>IJSARTV4I1027796</ins>
         # additional_links:
         #   - title:  aniket414/SolarPowerPredictor
         #     icon: fab fa-github
