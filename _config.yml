@@ -9,7 +9,7 @@ version: 2
 name: Aniket Pandey
 title: Software Developer
 email: aniket414@gmail.com
-website: www.github.com/aniket414
+# website: www.github.com/aniket414
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -30,10 +30,10 @@ linkedin_username: aniket414
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-# additional_links:
-# - title: test
-#   icon: fas fa-globe
-#   url: https://test.test
+additional_links:
+- title: Resume
+  icon: fas fa-globe
+  url: https://drive.google.com
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,7 +48,9 @@ linkedin_username: aniket414
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Aniket and I'm a graduate student. I also have experience solving real world problems by making softwares.
+  Hi, my name's Aniket and I'm a graduate student. I also have 2 years of experience solving real world problems by making softwares.
+
+  I enjoy writing clean codes that is quick and easy to debug whilst also giving developers an enjoyable experience. I have worked with a range of different languages and frameworks and I am always looking for opportunities to work with something new. The things that I currently have the most experience working with are: <mark>Python</mark>, <mark>.Net Core</mark>, <mark>C#</mark>, <mark>Java</mark>, <mark>git</mark>, and <mark>AWS</mark> services.
 
   I am most skilled in: <mark>Software Development</mark> and <mark>Watching Movies</mark>
 
@@ -57,20 +59,51 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: Nextgen IAM
+        # link: github.com/aniket414
+        # link_text: Project Website
+        # additional_links:
+        #   - title:  aniket414/SolarPowerPredictor
+        #     icon: fab fa-github
+        #     url: https://github.com/aniket414/SolarPowerPredictor
+        #   - title:  Github page for project (eg. aniket414/SolarPowerPredictor)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. aniket414.github.io)
+        quote: >
+          C#, Python, AWS, Cassandra, Redis.
+        description: | # this will include new lines to allow paragraphs
+          Developed an identity as a service API's to authenticate and authorize identity of individuals and applications. The service supported the <mark>OpenID Connect</mark>, <mark>SAML</mark>, <mark>Authorize Code</mark>, <mark>Password</mark>, <mark>Client Credentials</mark>, <mark>Authorize Code with PKCE</mark> and <mark>Refresh Token</mark> flow. Created a serverless <mark>AWS Lambda</mark> which triggered every day to report users data on daily basis for analytics purpose. Used AWS managed <mark>Kafka</mark> for data streaming. In addition also performed threat modelling and supported penetration testing team. Made sure the penetration testing issues are immediately fixed to make the system secure before its prod release.
+      - layout: top-middle
+        title: Nextgen Profile
+        # link: github.com/aniket414
+        # link_text: Project Website
+        # additional_links:
+        #   - title:  aniket414/SolarPowerPredictor
+        #     icon: fab fa-github
+        #     url: https://github.com/aniket414/SolarPowerPredictor
+        #   - title:  Github page for project (eg. aniket414/SolarPowerPredictor)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. aniket414.github.io)
+        quote: >
+          C#, GraphQL, Cassandra, AWS, Redis.
+        description: | # this will include new lines to allow paragraphs
+          Developed a profile as a service using <mark>GraphQL</mark> to manage the profile data of individuals. Utilized GraphQL to read, write, update and delete only the sections of profile as requested by the user. Also incorporated the CCPA (US) and GDPR (EU) to comply with the act and also made sure the encryption of PII data.
+      - layout: top-middle
         title: Solar Power Predictor
-        link: github.com/aniket414
+        # link: github.com/aniket414
         # link_text: Project Website
         additional_links:
           - title:  aniket414/SolarPowerPredictor
             icon: fab fa-github
-            url: github.com/aniket414/SolarPowerPredictor
+            url: https://github.com/aniket414/SolarPowerPredictor
           # - title:  Github page for project (eg. aniket414/SolarPowerPredictor)
           #   icon: fab fa-github
           #   url: Link to project (eg. aniket414.github.io)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Python, Tensorflow, Flask, HTML.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a final year undergrad project to learn <mark>Machine Learning</mark>. It is trained using <mark>LSTM</mark> <mark>RNN</mark> algorithm to predict the solar power generation.
+          I started this project as a final year undergrad project to learn <mark>Machine Learning</mark>. The model was trained using <mark>LSTM</mark> <mark>RNN</mark> algorithm to predict the solar power generated. The project had a interactice UI where the user selects the city name and in the backend the future weather data of the city was fetched using <mark>REST API</mark> and sent to the trained model which predicted the solar power generation.
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -78,13 +111,13 @@ content:
       - layout: left
         title: J P Morgan Chase & Co
         link: https://www.jpmorganchase.com
-        # link_text: boringcompany.com
+        link_text: jpmorganchase.com
         sub_title: Software Engineer
         caption: July 2019 - August 2021
-        quote: >
-          Solving 21st century problems Test *Test*
+        # quote: >
+        #   Solving 21st century problems Test *Test*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its softwares properly crafted and J P Morgan Chase & Co is no exception. Developing softwares is hard and I play my part making sure the whole world banks easily.
+          Every company needs its softwares properly crafted and J P Morgan Chase & Co is no exception. Developing softwares is hard and I play my part making sure the whole world banks easily.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -94,21 +127,23 @@ content:
         caption: 2021 - 2023
         sub_title: MS Computer Science
         quote: >
-          Established in 1957, George Mason University is a public research university. It is popularly known as the 'Oxford of the East', and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Established in 1957, George Mason University is a public research university. It has seen the best and brightest individuals from across the world pass through its doors, a progressive, and diverse university.
         description: | # this will include new lines to allow paragraphs
-          During my time at Test.
+          I am currently enrolled here as a full time *Masters of Science* graduate student in *Computer Science* with specialization in *Machine Learning*. I plan to take software development and machine learning related courses to broaden my ideas around it.
 
-          Test.
+          This is just the starting of my time at University, there's a lot more that I need to learn here. Will keep everyone posted, stay tuned.
       - layout: left
         title: Savitribai Phule Pune University
         caption: 2015 - 2019
         sub_title: BE Computer Engineering
         quote: >
-          Established in 1949, Pune University houses 46 academic departments. It is popularly known as the 'Oxford of the East', and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the India but also the world.
+          Established in 1949, Savitribai Phule Pune University houses 46 academic departments. It is popularly known as the 'Oxford of the East', and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the India but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Test.
+          During my degree at Pune University I learnt lots of key skills such as team work and project management. Although we mainly focused on software development and the principles of programming I use a lot of these skills to my advantage in my day to day work.
 
-          Test *Test Club* taking on roles such as *Test Secretary* and *Test*.
+          While at University I served as *Technical Secretary*, managed labs, students requirement and ran weekly meetings to oversee progress of task in the department. During this time I also organized a department level inter college technical festival which was a huge success.
+
+          I also had an wonderful experience working as a *Campus Ambassador* for the initiative *Transform Maharashtra*. Promoted the event and encouraged students to participate in sharing their ideas on how to tackle major problems being faced by the State Government of Maharashtra. Alongside promotion, I also managed the end to end interaction of participants with the organizers effectively resolving their queries.
 
   - title: A Little More About Me
     layout: text
@@ -120,10 +155,10 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](/aniket414.github.io/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
