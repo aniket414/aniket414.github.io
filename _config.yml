@@ -122,7 +122,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: right
         title: George Mason University
         caption: 2021 - 2023
         sub_title: MS Computer Science
@@ -144,6 +144,40 @@ content:
           While at University I served as *Technical Secretary*, managed labs, students requirement and ran weekly meetings to oversee progress of task in the department. During this time I also organized a department level inter college technical festival which was a huge success.
 
           I also had an wonderful experience working as a *Campus Ambassador* for the initiative *Transform Maharashtra*. Promoted the event and encouraged students to participate in sharing their ideas on how to tackle major problems being faced by the State Government of Maharashtra. Alongside promotion, I also managed the end to end interaction of participants with the organizers effectively resolving their queries.
+
+  - title: Prints # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: right
+        title: Solar Power Prediction using Recurrent Neural Network
+        link: https://www.ijraset.com/fileserve.php?FID=23360
+        link_text: IJRASET23360
+        # additional_links:
+        #   - title:  aniket414/SolarPowerPredictor
+        #     icon: fab fa-github
+        #     url: https://github.com/aniket414/SolarPowerPredictor
+        #   - title:  Github page for project (eg. aniket414/SolarPowerPredictor)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. aniket414.github.io)
+        quote: >
+          S. Rathod, A. Pandey, M. Pandey, D. Jha, H. Singh
+        # description: | # this will include new lines to allow paragraphs
+        #   Test.
+    - layout: left
+        title: Power Forecast of Solar Panels Using Machine Learning Techniques - A Survey
+        link: http://ijsart.com/Home/IssueDetail?id=27796
+        link_text: IJSARTV4I1027796
+        # additional_links:
+        #   - title:  aniket414/SolarPowerPredictor
+        #     icon: fab fa-github
+        #     url: https://github.com/aniket414/SolarPowerPredictor
+        #   - title:  Github page for project (eg. aniket414/SolarPowerPredictor)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. aniket414.github.io)
+        quote: >
+          A. Pandey, M. Pandey, D. Jha, H. Singh, S. Rathod
+        # description: | # this will include new lines to allow paragraphs
+        #   Test.
 
   - title: A Little More About Me
     layout: text
