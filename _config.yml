@@ -124,6 +124,8 @@ content:
     content:
       - layout: right
         title: George Mason University
+        link: https://www2.gmu.edu
+        link_text: gmu.edu
         caption: 2021 - 2023
         sub_title: MS Computer Science
         quote: >
@@ -134,6 +136,8 @@ content:
           This is just the starting of my time at University, there's a lot more that I need to learn here. Will keep everyone posted, stay tuned.
       - layout: left
         title: Savitribai Phule Pune University
+        link: http://unipune.ac.in
+        link_text: unipune.ac.in
         caption: 2015 - 2019
         sub_title: BE Computer Engineering
         quote: >
@@ -179,14 +183,16 @@ content:
         # description: | # this will include new lines to allow paragraphs
         #   Test.
 
-  - title: A Little More About Me
+  - title: When I'm Not Developing
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Watching movies
-      - Solving puzzles
-      - Astrophysics
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      When I’m not at my desk I am very active and spend most of my time outdoors. I do a lot of fitness and recreation activity such as treking, running, and meditation as well as trying to make time for things like cooking and watching movies. Since my time at university I have developed a very keen interest for theatre, movies and play of all genre.
+      
+      I’m interested in art and music as I like to be creative, this is mainly through instagram and films but I also enjoy abstract art too.
+
+      Finally during the rest of my free time alongside my interests in software engineering you will find me do research on:
+      - Physics and Space Science
+      - [Becoming a spy](https://youtu.be/rleXyBQRc-M)
 
       Look at this cool image  
       ![Trees](/images/landscape-trees.jpg "Trees")
