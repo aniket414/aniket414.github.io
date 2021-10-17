@@ -166,12 +166,12 @@ content:
     content:
       - layout: top-middle
         title: Solar Power Prediction using Recurrent Neural Network
-        link: https://www.ijraset.com/fileserve.php?FID=23360
-        link_text: <ins>IJRASET23360</ins>
-        # additional_links:
-        #   - title:  aniket414/SolarPowerPredictor
-        #     icon: fab fa-github
-        #     url: https://github.com/aniket414/SolarPowerPredictor
+        link: https://www.ijraset.com
+        link_text: <ins>IJRASET</ins>
+        additional_links:
+          - title:  IJRASET23360
+            # icon: fab fa-github
+            url: https://drive.google.com/file/d/16SvZubxjSDdeAhYf8mgy1hE2V0jqwqWL/view?usp=sharing
         #   - title:  Github page for project (eg. aniket414/SolarPowerPredictor)
         #     icon: fab fa-github
         #     url: Link to project (eg. aniket414.github.io)
