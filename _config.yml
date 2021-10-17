@@ -33,7 +33,7 @@ linkedin_username: aniket414
 additional_links:
 - title: Resume
   icon: fas fa-globe
-  url: https://drive.google.com/file/d/1lpNOGCdWdFD0GRMLvVVBOZ5GoFMF9tdI/view?usp=sharing
+  url: https://drive.google.com/file/d/1wEdM9xmDL_N8j8tlRc1b_nBYk9WJ5NB1/view?usp=sharing
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -170,7 +170,7 @@ content:
         link_text: <ins>IJRASET</ins>
         additional_links:
           - title:  IJRASET23360
-            icon: fab fa-globe
+            icon: fas fa-globe
             url: https://drive.google.com/file/d/16SvZubxjSDdeAhYf8mgy1hE2V0jqwqWL/view?usp=sharing
         #   - title:  Github page for project (eg. aniket414/SolarPowerPredictor)
         #     icon: fab fa-github
