@@ -170,7 +170,7 @@ content:
         link_text: <ins>IJRASET</ins>
         additional_links:
           - title:  IJRASET23360
-            # icon: fab fa-github
+            icon: fab fa-globe
             url: https://drive.google.com/file/d/16SvZubxjSDdeAhYf8mgy1hE2V0jqwqWL/view?usp=sharing
         #   - title:  Github page for project (eg. aniket414/SolarPowerPredictor)
         #     icon: fab fa-github
