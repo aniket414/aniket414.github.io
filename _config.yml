@@ -48,11 +48,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Aniket and I'm a full time MS in CS graduate student at George Mason University. I also have 2 years of experience solving real world problems by developing softwares.
+  Hi, my name's Aniket, and I'm a full-time MS in CS graduate student at George Mason University. I also have two years of experience solving real-world problems by developing softwares.
 
-  I enjoy writing clean codes that is quick and easy to debug whilst also giving end user an enjoyable experience. I have worked with a range of different languages and frameworks and I am always looking for opportunities to work with something new. The things that I currently have the most experience working with are: <mark>Python</mark>, <mark>.Net Core</mark>, <mark>C#</mark>, <mark>Java</mark>, <mark>git</mark>, and <mark>AWS</mark> services.
+  I enjoy writing clean codes that are quick and easy to debug while also giving end users an enjoyable experience. I have worked with various languages and frameworks, and I am always looking for opportunities to work with something new. I currently have the most experience working with <mark>Python</mark>, <mark>.Net Core</mark>, <mark>C#</mark>, <mark>Java</mark>, <mark>git</mark>, and <mark>AWS</mark> services.
 
-  I am most skilled in: <mark>Software Development</mark> and <mark>Watching Movies</mark>
+  I am most skilled in <mark>Software Development</mark> and <mark>Watching Movies</mark>.
 
 content:
   - title: Projects # Title for the section
@@ -72,7 +72,7 @@ content:
         quote: >
           C#, Python, AWS, Cassandra, Redis.
         description: | # this will include new lines to allow paragraphs
-          Developed an identity as a service API's to authenticate and authorize identity of individuals and applications. The service supported the <mark>OpenID Connect</mark>, <mark>SAML</mark>, <mark>Authorize Code</mark>, <mark>Password</mark>, <mark>Client Credentials</mark>, <mark>Authorize Code with PKCE</mark> and <mark>Refresh Token</mark> flow. Created a serverless <mark>AWS Lambda</mark> which triggered every day to report users data on daily basis for analytics purpose. Used AWS managed <mark>Kafka</mark> for data streaming. In addition also performed threat modelling and supported penetration testing team. Made sure the penetration testing issues are immediately fixed to make the system secure before its production release.
+          Developed an identity as a service APIs to authenticate and authorize the identity of individuals and applications. The service supported the <mark>OpenID Connect</mark>, <mark>SAML</mark>, <mark>Authorize Code</mark>, <mark>Password</mark>, <mark>Client Credentials</mark>, <mark>Authorize Code with PKCE</mark>, and <mark>Refresh Token</mark> flow. Created a serverless <mark>AWS Lambda</mark>, which triggered every day to report users data on a daily basis for analytics purposes. Used AWS managed <mark>Kafka</mark> for data streaming. In addition, I also performed threat modeling and supported the penetration testing team. Made sure the penetration testing issues are immediately fixed to secure before its production release.
       - layout: top-middle
         title: Nextgen Profile
         # link: github.com/aniket414
@@ -87,7 +87,7 @@ content:
         quote: >
           C#, GraphQL, Cassandra, AWS, Redis.
         description: | # this will include new lines to allow paragraphs
-          Developed a profile as a service using <mark>GraphQL</mark> to manage the profile data of individuals. Utilized GraphQL to read, write, update and delete only the sections of profile as requested by the user. Also incorporated the CCPA (US) and GDPR (EU) to comply with the act and also made sure the PII data is encrypted.
+          Developed a profile as a service using <mark>GraphQL</mark> to manage individuals' profile data. Utilized GraphQL to read, write, update and delete only the sections of the profile as requested by the user. Also incorporated the CCPA (US) and GDPR (EU) to comply with the act and ensured the PII data is encrypted.
       - layout: top-middle
         title: Solar Power Predictor
         # link: github.com/aniket414
@@ -102,14 +102,14 @@ content:
         quote: >
           Python, Tensorflow, Flask, HTML.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a final year undergrad project to learn <mark>Machine Learning</mark>. The model was trained using <mark>LSTM</mark> <mark>RNN</mark> algorithm to predict the solar power generated. The project had a interactice UI where the user selects the city name and in the backend the future weather data of the city was fetched using <mark>REST API</mark> and sent to the trained model which predicted the solar power generation.
+          I started this project as a final year undergrad project to learn <mark>Machine Learning</mark>. The model is trained using <mark>LSTM</mark> <mark>RNN</mark> algorithm to predict the solar power generated. The project has an interactice UI where the user selects the city name. In the backend, the future weather data of the city is fetched using <mark>REST API</mark> and sent to the trained model, which predicts the solar power generation.
 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: J P Morgan Chase & Co
+        title: JP Morgan Chase & Co.
         link: https://www.jpmorganchase.com
         link_text: jpmorganchase.com
         sub_title: Software Engineer
@@ -117,19 +117,19 @@ content:
         quote: >
           Solving 21st century banking problems through softwares and making game changing products.
         description: | # this will include new lines to allow paragraphs
-          Every company needs its softwares properly crafted and J P Morgan Chase & Co is no exception. Developing softwares which is clean, optimized, follows coding best practices is hard and I play my part making sure the whole world banking problem is not a problem anymore.
+          Every company needs its softwares appropriately crafted, and JP Morgan Chase is no exception. Developing softwares that is clean, optimized, follows coding best practices is hard, and I played my part in making sure the whole world banking problem is not a problem anymore.
 
-          I worked here as a part of a scrum team consisting of 4 Developers, 1 Tester and a PO/BA. I spent most of my time working on a specifc area of a large application that our team take ownership over. The front end is a <mark>Angular</mark> app that talks to multiple API's built using a collection of <mark>.Net Core</mark> microservices. I have spent time working in multiple parts of the stack including creating API's, integrating microservices, deploying code and making sure to follow best practices in a microservice.
+          I worked here as a part of a scrum team consisting of 4 Developers, 1 Tester, and a PO/BA. I spent most of my time working on a specific area of an extensive application that our team takes ownership over. The front end is an <mark>Angular</mark> app that talks to multiple APIs built using a collection of <mark>.Net Core</mark> microservices. I spent time working in numerous parts of the stack, including creating APIs, integrating microservices, deploying code, and following best practices in a microservice.
 
-          Recently we took the lead on rebuilding the login journey to our application. We as a team worked together with the architects and designers to create something that would be fit for purpose and be easy to maintain for years to come. We then built this to a high standard which lead to a seamless switch over from the previous system with no issues.
+          Recently we took the lead on rebuilding the login journey to our application. We, as a team, worked together with the architects and designers to create something that would be fit for purpose and be easy to maintain for years to come. We then built this to a high standard leading to a seamless switch over from the previous system with no issues.
 
-          During my time at JPMC, I gained experience working with a continuous integration workflow using tools such as <mark>Jenkins</mark>, image hosting using <mark>Docker</mark>, microservice orchestration through <mark>Kubernetes</mark> and working with <mark>Amazon Web Services</mark> for deployments. We built most of our software using the stack <mark>C#</mark>, <mark>.Net Core</mark>, <mark>Cassandra</mark>, <mark>GraphQL</mark>, and <mark>Redis</mark>.
+          At JPMC, I gained experience working with a continuous integration workflow using tools such as <mark>Jenkins</mark>, image hosting using <mark>Docker</mark>, microservice orchestration through <mark>Kubernetes</mark>, and working with <mark>Amazon Web Services</mark> for deployments. We built most of our software using stack <mark>C#</mark>, <mark>.Net Core</mark>, <mark>Cassandra</mark>, <mark>GraphQL</mark>, and <mark>Redis</mark>.
 
-          For 12 months I was working on delivering a standalone Identity and Access Management + Profile application that services all our user base. I also gained a lot of experience with <mark>Elasticsearch</mark> while working on <mark>Kibana</mark> to provide search functionality for logging. During the project I spent time out of hours communicating with the onshore team, performing deployments and providing support.
+          For 12 months, I was working on delivering a standalone Identity and Access Management + Profile application that services all our user base. I also gained a lot of experience with <mark>Elasticsearch</mark> while working on <mark>Kibana</mark> to provide search functionality for logging. During the project, I spent hours communicating with the onshore team, performing deployments, and giving support.
 
-          Towards the end of my time at JPMC my role involved assisting with the company’s <mark>DevOps</mark>, this included managing our AWS infrastructure as well as deploying and migrating data. I also spent time configuring and maintaining our applications SSO, this mostly involves configuring new applications and client who are using <mark>ADFS</mark>, <mark>SAML</mark>, <mark>Client Credentials</mark> but also maintaining our software’s SSO functionality.
+          Towards the end of my time at JPMC, my role involved assisting with the company’s <mark>DevOps</mark>, including managing our AWS infrastructure and deploying and migrating data. I also spent time configuring and maintaining our applications SSO. This mainly involves configuring new applications and clients who are using <mark>ADFS</mark>, <mark>SAML</mark>, <mark>Client Credentials</mark> and also maintaining our softwares SSO functionality.
 
-          I enjoy learning about all areas of our application which allows me to be a person for knowledge seeker within my team and the other teams in the office. I am always looking to gain improvements and challenge what and how we are working to make sure we are delivering the best service to the customers while also developing to the highest standard products.
+          I enjoy learning about all areas of our application which allows me to be a knowledge seeker within my team and the other teams in the office. I am always looking to gain improvements and challenge what and how we are working to deliver the best service to the customers while also developing to the highest standard products.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -143,9 +143,11 @@ content:
         quote: >
           Established in 1957, George Mason University is a public research university. It has seen the best and brightest individuals from across the world pass through its doors, a progressive, and diverse university.
         description: | # this will include new lines to allow paragraphs
-          I am currently enrolled here as a full time *Masters of Science* graduate student in *Computer Science* with specialization in *Machine Learning*. I plan to take software development and machine learning related courses to broaden my ideas around it.
+          I am currently enrolled here as a full-time *Masters of Science* graduate student in *Computer Science* specializing in *Machine Learning*. I plan to take software development and machine learning related courses to broaden my ideas around it.
 
-          This is just the starting of my time at University, there's a lot more that I need to learn here. Will keep everyone posted, stay tuned.
+          I have Completed my first semester with a GPA of *3.1/4* in CS-583 Analysis of Algorithms, CS-580 Introduction to Artificial Intelligence, and CS-584 Theory & Application of Data Mining. I've registered in SWE-621 Software Modeling & Architecture Design, SWE-645 Component Based Software Development, and CS-688 Machine Learning for the second semester.
+
+          This is just the starting of my time at University, and there's a lot more that I need to learn here. I Will keep everyone posted. Stay tuned!
       - layout: left
         title: Savitribai Phule Pune University
         link: http://unipune.ac.in
@@ -155,11 +157,11 @@ content:
         quote: >
           Established in 1949, Savitribai Phule Pune University houses 46 academic departments. It is popularly known as the 'Oxford of the East', and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the India but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my degree at Pune University I learnt lots of key skills such as team work and project management. Although we mainly focused on software development and the principles of programming I use a lot of these skills to my advantage in my day to day work.
+          During my degree at Pune University, I learned many essential skills such as teamwork and project management. Although we mainly focused on software development and the programming principles, I use many of these skills to my advantage in my day-to-day work.
 
-          While at University I served as *Technical Secretary*, managed labs, students requirement and ran weekly meetings to oversee progress of task in the department. During this time I also organized a department level inter college technical festival which was a huge success.
+          While at University, I served as *Technical Secretary*, managed labs, students requirements, and ran weekly meetings to oversee the progress of the task in the department. I also organized a department level inter-college technical festival during this time, which was a huge success.
 
-          I also had an wonderful experience working as a *Campus Ambassador* for the initiative *Transform Maharashtra*. Promoted the event and encouraged students to participate in sharing their ideas on how to tackle major problems being faced by the State Government of Maharashtra. Alongside promotion, I also managed the end to end interaction of participants with the organizers, effectively resolving their queries.
+          I also had a wonderful experience working as a *Campus Ambassador* for the *Transform Maharashtra's* initiative. Promoted the event and encouraged students to share their ideas on how to tackle major problems being faced by the State Government of Maharashtra. Alongside promotion, I also managed the end-to-end interaction of participants with the organizers, effectively resolving their queries.
   
   - title: Papers # Title for the section
     layout: list # Type of content section (list/text)
@@ -198,15 +200,15 @@ content:
   - title: When I'm Not Developing
     layout: text
     content: | # this will include new lines to allow paragraphs
-      When I’m not at my desk I am very active and spend most of my time outdoors (mostly mountains). I do a lot of fitness and recreation activity such as treking, running, and meditation as well as trying to make time for things like cooking and watching movies. Since my time at university I have developed a very keen interest for theatre, movies and play of all genre.
+      When I’m not at my desk, I am very active and spend most of my time outdoors (mostly mountains). I do a lot of fitness and recreation activities such as trekking, running, meditation, and trying to make time for things like cooking and watching movies. Since my time at university, I have developed a very keen interest in theatre, films, and play of all genres.
       
-      I’m interested in art and music as I like to be creative, this is mainly through instagram and films but I also enjoy abstract art too.
+      I’m interested in art and music as I like to be creative, this is mainly through Instagram and films, but I also enjoy abstract art too.
 
-      Finally during the rest of my free time alongside my interests in software engineering you will find me do research on:
+      Finally, during the rest of my free time, alongside my interests in software engineering, you will find me researching on:
       - Physics
       - [How to get into space](https://youtu.be/Ru2mrW1Zl1A)
 
-      Look at this cool image of [Spiti Valley](https://goo.gl/maps/6EuHg3TqWBMzmR999) from one of my trip to the majestic Himalayas.
+      Look at this wonderful image of [Spiti Valley](https://goo.gl/maps/6EuHg3TqWBMzmR999) from one of my trips to the majestic Himalayas.
 
       ![Spiti](images/spiti.jpeg "Spiti")
 
