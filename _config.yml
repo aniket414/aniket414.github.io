@@ -33,7 +33,7 @@ linkedin_username: aniket414
 additional_links:
 - title: Resume
   icon: fas fa-globe
-  url: https://drive.google.com/file/d/1wEdM9xmDL_N8j8tlRc1b_nBYk9WJ5NB1/view?usp=sharing
+  url: https://drive.google.com/file/d/1NG7UjFNnIHZUT0NsXn__TlLGQFZ3Q8sN/view?usp=sharing
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Aniket, and I'm a full-time MS in CS graduate student at George Mason University. I also have two years of experience solving real-world problems by developing softwares.
 
-  I enjoy writing clean codes that are quick and easy to debug while also giving end users an enjoyable experience. I have worked with various languages and frameworks, and I am always looking for opportunities to work with something new. I currently have the most experience working with <mark>Python</mark>, <mark>.Net Core</mark>, <mark>C#</mark>, <mark>Java</mark>, <mark>git</mark>, and <mark>AWS</mark> services.
+  I enjoy writing clean codes that are quick and easy to debug while also giving end users an enjoyable experience. I have worked with various languages and frameworks, and I am always looking for opportunities to work with something new. I currently have the most experience working with <mark>Python</mark>, <mark>DotNet Core</mark>, <mark>C#</mark>, <mark>Java</mark>, <mark>git</mark>, and <mark>AWS</mark> services.
 
   I am most skilled in <mark>Software Development</mark> and <mark>Watching Movies</mark>.
 
@@ -119,11 +119,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           Every company needs its softwares appropriately crafted, and JP Morgan Chase is no exception. Developing softwares that is clean, optimized, follows coding best practices is hard, and I played my part in making sure the whole world banking problem is not a problem anymore.
 
-          I worked here as a part of a scrum team consisting of 4 Developers, 1 Tester, and a PO/BA. I spent most of my time working on a specific area of an extensive application that our team takes ownership over. The front end is an <mark>Angular</mark> app that talks to multiple APIs built using a collection of <mark>.Net Core</mark> microservices. I spent time working in numerous parts of the stack, including creating APIs, integrating microservices, deploying code, and following best practices in a microservice.
+          I worked here as a part of a scrum team consisting of 4 Developers, 1 Tester, and a PO/BA. I spent most of my time working on a specific area of an extensive application that our team takes ownership over. The front end is an <mark>Angular</mark> app that talks to multiple APIs built using a collection of <mark>DotNet Core</mark> microservices. I spent time working in numerous parts of the stack, including creating APIs, integrating microservices, deploying code, and following best practices in a microservice.
 
           Recently we took the lead on rebuilding the login journey to our application. We, as a team, worked together with the architects and designers to create something that would be fit for purpose and be easy to maintain for years to come. We then built this to a high standard leading to a seamless switch over from the previous system with no issues.
 
-          At JPMC, I gained experience working with a continuous integration workflow using tools such as <mark>Jenkins</mark>, image hosting using <mark>Docker</mark>, microservice orchestration through <mark>Kubernetes</mark>, and working with <mark>Amazon Web Services</mark> for deployments. We built most of our software using stack <mark>C#</mark>, <mark>.Net Core</mark>, <mark>Cassandra</mark>, <mark>GraphQL</mark>, and <mark>Redis</mark>.
+          At JPMC, I gained experience working with a continuous integration workflow using tools such as <mark>Jenkins</mark>, image hosting using <mark>Docker</mark>, microservice orchestration through <mark>Kubernetes</mark>, and working with <mark>Amazon Web Services</mark> for deployments. We built most of our software using stack <mark>C#</mark>, <mark>DotNet Core</mark>, <mark>Cassandra</mark>, <mark>GraphQL</mark>, and <mark>Redis</mark>.
 
           For 12 months, I was working on delivering a standalone Identity and Access Management + Profile application that services all our user base. I also gained a lot of experience with <mark>Elasticsearch</mark> while working on <mark>Kibana</mark> to provide search functionality for logging. During the project, I spent hours communicating with the onshore team, performing deployments, and giving support.
 
