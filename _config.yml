@@ -109,6 +109,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: George Mason University
+        link: https://mason.gmu.edu/~apandey7/
+        link_text: Aniket Pandey, GRA
+        sub_title: Graduate Research Assistant
+        caption: January 2022 - Present
+        quote: >
+          5G multi-access mobile edge server based security and learning for smart building.
+        description: | # this will include new lines to allow paragraphs
+          Developing a uniform identity and cryptographic system that enhances security for the Internet of Things devices and cyber-physical systems that service large buildings. Writing entirety of source code and test modules while reading relevant papers and conferring with faculty experts to ensure the software is well designed.
+
+          I am working on this project under [Dr. Duminda Wijesekera](https://volgenau.gmu.edu/profiles/dwijesek) and [Dr. Nirup Menon](https://business.gmu.edu/facultyandresearch/faculty/profile/115/170/). The project has received funding from the [Virginia Innovation Partnership Authority](https://www.virginiaipc.org) under [Commonwealth Cyber Initiative](https://cyberinitiative.org) for the project: "5G Multi-Access Mobile Edge Server Based Security and Learning for Smart Building."
+
+          Modern buildings strive to enhance resilience and meet environmental goals such as net-zero energy and carbon emissions. Existing building systems use disparate networks, e.g., BACnet, LonTalk, ZigBee, Bluetooth, WIFI, IP to connect with HVAC, elevators, lighting, and physical security systems. These independently controlled systems use proprietary protocols and cloud-based services. Two major cybersecurity problems that arise from this are the lack of overall security governance localized to the building operators' infrastructure and the inability to communicate between systems securely. Consequently, this affects the ability to optimize the cyber-physical security posture and energy usage by opening a uniform, secure platform to incorporate newer technologies such as solar rooftops and vehicle-to-grid and grid-to-vehicle charging based on price fluctuations during the time of day.
+
+      - layout: right
         title: JP Morgan Chase & Co.
         link: https://www.jpmorganchase.com
         link_text: jpmorganchase.com
