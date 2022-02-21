@@ -95,7 +95,7 @@ content:
         additional_links:
           - title:  aniket414/SolarPowerPredictor
             icon: fab fa-github
-            url: https://github.com/aniket414/SolarPowerPredictor
+            url: https://github.com/aniket414/solar-power-predictor
           # - title:  Github page for project (eg. aniket414/SolarPowerPredictor)
           #   icon: fab fa-github
           #   url: Link to project (eg. aniket414.github.io)
