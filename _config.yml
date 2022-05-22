@@ -7,8 +7,8 @@ version: 2
 
 # Personal info
 name: Aniket Pandey
-title: Looking for Summer 2022 Internship | Software Developer | Machine Learning & Data Science Enthusiast
-email: aniket414@gmail.com
+title: Software Engineer 3 Intern at Walmart Inc | Machine Learning & Data Science Enthusiast
+email: aniket414[at]gmail[dot]com
 # website: https://github.com/aniket414
 
 # Dark Mode (true/false/never)
@@ -73,6 +73,7 @@ content:
           C#, Python, AWS, Cassandra, Redis.
         description: | # this will include new lines to allow paragraphs
           Developed an identity as a service APIs to authenticate and authorize the identity of individuals and applications. The service supported the <mark>OpenID Connect</mark>, <mark>SAML</mark>, <mark>Authorize Code</mark>, <mark>Password</mark>, <mark>Client Credentials</mark>, <mark>Authorize Code with PKCE</mark>, and <mark>Refresh Token</mark> flow. Created a serverless <mark>AWS Lambda</mark>, which triggered every day to report users data on a daily basis for analytics purposes. Used AWS managed <mark>Kafka</mark> for data streaming. In addition, I also performed threat modeling and supported the penetration testing team. Made sure the penetration testing issues are immediately fixed to secure before its production release.
+      
       - layout: top-middle
         title: Nextgen Profile
         # link: github.com/aniket414
@@ -88,6 +89,7 @@ content:
           C#, GraphQL, Cassandra, AWS, Redis.
         description: | # this will include new lines to allow paragraphs
           Developed a profile as a service using <mark>GraphQL</mark> to manage individuals' profile data. Utilized GraphQL to read, write, update and delete only the sections of the profile as requested by the user. Also incorporated the CCPA (US) and GDPR (EU) to comply with the act and ensured the PII data is encrypted.
+      
       - layout: top-middle
         title: Solar Power Predictor
         # link: github.com/aniket414
@@ -108,18 +110,31 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: right
+        title: Walmart Global Tech
+        link: https://www.walmart.com
+        link_text: walmart.com
+        sub_title: Software Engineer 3 Intern
+        caption: May 2022 - Present
+        quote: >
+          Powering the next great retail disruption.
+        description: | # this will include new lines to allow paragraphs
+          This summer I’ll be working on Workflow Management & Operational Dashboard Project involving Camunda/Zeebe/Overwatch Workflow automation involving making updates to Overwatch dashboard UI, CI-CD pipeline for Camunda, Java development to implement features for product requirements.
+          
+          While this provides some high-level information, I'll soon be updating here about my experience very soon.
+      
       - layout: left
         title: George Mason University
         link: https://mason.gmu.edu/~apandey7/
-        link_text: Aniket Pandey, GRA
-        sub_title: Graduate Research Assistant
-        caption: January 2022 - Present
+        link_text: Aniket Pandey, RA
+        sub_title: Research Assistant
+        caption: January 2022 - May 2022
         quote: >
           5G multi-access mobile edge server based security and learning for smart building.
         description: | # this will include new lines to allow paragraphs
-          Developing a uniform identity and cryptographic system that enhances security for the Internet of Things devices and cyber-physical systems that service large buildings. Writing entirety of source code and test modules while reading relevant papers and conferring with faculty experts to ensure the software is well designed.
+          Developed a uniform identity and cryptographic system that enhances security for the Internet of Things devices and cyber-physical systems that service large buildings. Worked on writing entirety of source code and test modules while reading relevant papers and conferring with faculty experts to ensure the software is well designed.
 
-          I am working on this project under [Dr. Duminda Wijesekera](https://volgenau.gmu.edu/profiles/dwijesek) and [Dr. Nirup Menon](https://business.gmu.edu/facultyandresearch/faculty/profile/115/170/). The project has received funding from the [Virginia Innovation Partnership Authority](https://www.virginiaipc.org) under [Commonwealth Cyber Initiative](https://cyberinitiative.org) for the project: "5G Multi-Access Mobile Edge Server Based Security and Learning for Smart Building."
+          I worked on this project under [Dr. Duminda Wijesekera](https://volgenau.gmu.edu/profiles/dwijesek) and [Dr. Nirup Menon](https://business.gmu.edu/facultyandresearch/faculty/profile/115/170/). The project received funding from the [Virginia Innovation Partnership Authority](https://www.virginiaipc.org) under [Commonwealth Cyber Initiative](https://cyberinitiative.org) for the project: "5G Multi-Access Mobile Edge Server Based Security and Learning for Smart Building."
 
           Modern buildings strive to enhance resilience and meet environmental goals such as net-zero energy and carbon emissions. Existing building systems use disparate networks, e.g., BACnet, LonTalk, ZigBee, Bluetooth, WIFI, IP to connect with HVAC, elevators, lighting, and physical security systems. These independently controlled systems use proprietary protocols and cloud-based services. Two major cybersecurity problems that arise from this are the lack of overall security governance localized to the building operators' infrastructure and the inability to communicate between systems securely. Consequently, this affects the ability to optimize the cyber-physical security posture and energy usage by opening a uniform, secure platform to incorporate newer technologies such as solar rooftops and vehicle-to-grid and grid-to-vehicle charging based on price fluctuations during the time of day.
 
@@ -160,9 +175,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           I am currently enrolled here as a full-time *Masters of Science* graduate student in *Computer Science* specializing in *Machine Learning*. I plan to take software development and machine learning related courses to broaden my ideas around it.
 
-          My first semester at GMU was full of leanings - I got better at balancing academics with my personal life, figured how to budget and manage finances, worked on my collaboration skills, and discovered at least three kitchen hacks that have since helped me cut down on my cooking time. This semester, I am adding on to the challenge by signing up for newer experiences.
+          My first year at GMU was full of leanings - I got better at balancing academics with my personal life, figured how to budget and manage finances, worked on my collaboration skills, and discovered at least three kitchen hacks that have since helped me cut down on my cooking time. This upcoming fall semester, after my summer internship at Walmart I will be adding on to the challenge by signing up for newer experiences.
 
-          This is just the starting of my time at University, and there's a lot more that I need to learn here. I Will keep everyone posted. Stay tuned!
+          I am really enjoying my time at University with a wonderful blend of culture and ideas, and there's a lot more that I need to learn here. I Will keep everyone posted. Stay tuned!
+      
       - layout: left
         title: Savitribai Phule Pune University
         link: http://unipune.ac.in
@@ -196,6 +212,7 @@ content:
           S. Rathod, A. Pandey, M. Pandey, D. Jha, H. Singh
         # description: | # this will include new lines to allow paragraphs
         #   Test.
+
       - layout: top-middle
         title: Power Forecast of Solar Panels Using Machine Learning Techniques - A Survey
         link: http://ijsart.com/Home/IssueDetail?id=27796
